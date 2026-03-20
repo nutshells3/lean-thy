@@ -1,0 +1,22 @@
+session Lab_Thy = "HOL-Probability" +
+  sessions
+    "HOL-Eisbach"
+  theories
+    Step1_Foundation
+    Step2_WeakTranslation
+    Step3_SubstantiveAxiomatics
+    Step4_AmbiguousSourceAxiomatics
+    Step5_NLTranslationBarrier
+    Step6_MainClaims
+    Step7_ExactCheckerBarrier
+    Step8_AuditedSurrogateTheoremSchema
+    Step9_AnytimeValidStoppingTheorem
+    Step10_VarianceAdaptiveBoundTheorem
+    Step11_DecisionFocusedCertificationTheorem
+    Step1_11
+    Design1_RestrictedFragmentBridge
+    Design2_JudgeStackInstantiation
+    Design3_OperationalStoppingPolicy
+    Design4_VarianceAdaptiveStoppingPolicy
+    Design5_FalsificationFirstPolicy
+    Design1_5
